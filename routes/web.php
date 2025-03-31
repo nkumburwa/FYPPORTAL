@@ -35,16 +35,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/shome', function () {
-    return view('shome');
-});
 
-Route::get('/assign', function () {
-    return view('assign');
-});
-Route::get('/supervisor', function () {
-    return view('supervisor');
-});
+
+
 Route::get('/admin', function () {
     return view('admin');
 });
