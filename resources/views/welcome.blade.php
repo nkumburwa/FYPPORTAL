@@ -58,7 +58,7 @@
             <p class="mb-4">This platform helps students submit project proposals, collaborate with supervisors, and manage academic progress efficiently.</p>
             <div>
                 <a href="login" class="btn btn-success">Student</a>
-                <a href="login" class="btn btn-secondary">Supervisor</a>
+                <a href="adminlogin" class="btn btn-secondary">Supervisor</a>
                 <a href="adminlogin" class="btn btn-danger">Admin</a>
             </div>
         </div>
